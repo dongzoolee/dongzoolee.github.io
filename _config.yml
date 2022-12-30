@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
+title:          dongzoolee
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://dongzoolee.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         dongzoolee
+  url:          https://leed.at
+  email:        me@leed.at
 
 # Build settings
 markdown:       kramdown
